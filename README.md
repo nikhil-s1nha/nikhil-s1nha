@@ -1,5 +1,5 @@
 # Hey I'm Nikhil 👋
-🦅 Junior at American High School<br>💡 Pursuing about mechatronics and aerospace engineering<br>🌹 Enjoy ideating new projects<br>🌧️ Currently learning/working on SAM2
+🦅 Junior at American High School<br>💡 Pursuing about mechatronics and aerospace engineering<br>🔎 Ideating new projects all the time<br>🌧️ Currently learning/working on SAM2
 
 
 ## 🌐 Socials:
