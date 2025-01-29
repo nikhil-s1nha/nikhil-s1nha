@@ -9,13 +9,8 @@ I'm a Junior at American High School pursuing about mechatronics and aerospace e
 
 ### 📊 GitHub Stats:
 <div align="center">
-<a href="https://github.com/namnik100/namnik100">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namnik100&hide=html,css,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&count_private=true" />
+![nikhil-s1nha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-s1nha&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
-</a>
-<a href="https://github.com/namnik100/namnik100">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=namnik100&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nikhil's GitHub Stats" />
-</a>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
