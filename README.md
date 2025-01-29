@@ -9,7 +9,7 @@ I'm a Junior at American High School pursuing about mechatronics and aerospace e
 
 ### 📊 GitHub Stats:
 <div align="center">
-![nikhil-s1nha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-s1nha&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![nikhil-s1nha's Top Languages] (https://github-readme-stats-nikhil-sinhas-projects-dd1d11f2.vercel.app/api/top-langs/?username=nikhil-s1nha&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 
 
