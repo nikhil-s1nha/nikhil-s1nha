@@ -1,5 +1,5 @@
 ### Hey there I'm Nikhil! 
-I'm a Junior at American High School pursuing about mechatronics and aerospace engineering!<br> Always looking for new, interesting projects, and currently exploring SAM2 and PanoRadar.
+I'm a senior at American High School pursuing about mechatronics and aerospace engineering!<br> Always looking for new, interesting projects, and currently exploring SAM2 and PanoRadar.
 
 📧 namnik100@gmail.com | 📞 +1 510-602-7858 <br>
 🔗 [LinkedIn](https://www.linkedin.com/in/nikhil-s1nha) | 🔗 [Instagram](https://www.instagram.com/nikhil.s1nha)  
